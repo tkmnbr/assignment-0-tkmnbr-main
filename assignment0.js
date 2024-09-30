@@ -271,7 +271,6 @@ class WebGlApp
 
 }
 
-
 // JS Module Export -- No need to modify this
 export
 {
